@@ -1,0 +1,9 @@
+.heroHeading {
+  font-size: 50px;
+}
+
+@media (min-width: 432px) {
+  .heroHeading {
+    font-size: var(--font-size-9);
+  }
+}

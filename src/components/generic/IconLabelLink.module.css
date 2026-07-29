@@ -1,0 +1,6 @@
+@media (pointer: coarse) {
+  .iconLink:active {
+    background-color: var(--accent-a4);
+    outline: none;
+  }
+}

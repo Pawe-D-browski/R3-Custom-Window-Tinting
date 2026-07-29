@@ -1,0 +1,7 @@
+.brandButton:hover {
+  background-color: transparent;
+}
+
+.brandButton:active {
+  background-color: var(--gray-a4);
+}
